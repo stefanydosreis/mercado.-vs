@@ -1,0 +1,13 @@
+C:\Users\sreis\Pictures\mercado\mercado\mercado\bin\Debug\mercado.exe.config
+C:\Users\sreis\Pictures\mercado\mercado\mercado\bin\Debug\mercado.exe
+C:\Users\sreis\Pictures\mercado\mercado\mercado\bin\Debug\mercado.pdb
+C:\Users\sreis\Pictures\mercado\mercado\mercado\bin\Debug\mercado.xml
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.vbproj.AssemblyReference.cache
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.vbproj.SuggestedBindingRedirects.cache
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.Form1.resources
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.Resources.resources
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.vbproj.GenerateResource.cache
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.vbproj.CoreCompileInputs.cache
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.exe
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.xml
+C:\Users\sreis\Pictures\mercado\mercado\mercado\obj\Debug\mercado.pdb
